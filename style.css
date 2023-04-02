@@ -1,0 +1,38 @@
+h1{
+  font-size: 50px;
+  font-family: sans-serif;
+  text-align: center;
+  text-decoration: underline;
+  color: blue;
+  font-size: 70px;
+}
+
+body{
+  background-color: aqua;
+}
+
+p{
+  font-size: 20px;
+  color: blue;
+}
+
+ul,li{
+  list-style-type:square;
+  font-size: 25px;
+  color: blue;
+}
+
+h2{
+  text-align: center;
+  color: blueviolet;
+  font-size: 50px;
+  font-family: cursive;
+  font-weight: bold;
+
+}
+
+h3{
+  font-size: 40px;
+  color:green ;
+  font-family: cursive;
+}
