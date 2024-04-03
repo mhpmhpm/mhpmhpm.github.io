@@ -3,28 +3,28 @@ h1{
   font-family: sans-serif;
   text-align: center;
   text-decoration: underline;
-  color: blue;
+  color: white;
   font-size: 70px;
 }
 
 body{
-  background-color: aqua;
+  background-color: black;
 }
 
 p{
   font-size: 20px;
-  color: blue;
+  color: yellow;
 }
 
 ul,li{
   list-style-type:square;
   font-size: 25px;
-  color: blue;
+  color: yellow;
 }
 
 h2{
   text-align: center;
-  color: blueviolet;
+  color: yellow;
   font-size: 50px;
   font-family: cursive;
   font-weight: bold;
@@ -33,13 +33,13 @@ h2{
 
 h3{
   font-size: 40px;
-  color:green ;
+  color:yellow ;
   font-family: cursive;
 }
 
 p1{
   font-size: 40px;
-  color: red;
+  color: yellow;
   font-family: cursive;
   font-weight: bold;
 }
